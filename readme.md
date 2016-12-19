@@ -36,3 +36,5 @@
 
 * user: admin@test.com password: secret
 * user: client@test.com password: secret
+
+### Nota: Para Desactivar la barra de depuración ingresan a la ruta /config/debugbar.php en su proyecto y modifican la sección de 'enabled' => null, le cambian el null por false.
