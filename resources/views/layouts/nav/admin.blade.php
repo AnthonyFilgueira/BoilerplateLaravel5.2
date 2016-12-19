@@ -1,0 +1,1 @@
+ <li><a href="/users">{{ trans('validation.template.users') }}</a></li>
